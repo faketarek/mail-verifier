@@ -1,0 +1,6 @@
+proxies: true
+proxy_type: 'http'
+threads: 10
+
+kopcheeka_api_key: '2f7cda53bfde00ba9243c406038fb41b'
+email_domains: ['outlook.com']
